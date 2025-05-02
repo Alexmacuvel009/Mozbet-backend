@@ -7,6 +7,3 @@ MONGO_URI=mongodb+srv://alexmariojonas:qdYtV9So2MG7Y61D@cluster2.uymufku.mongodb
 
 # Chave secreta JWT
 JWT_SECRET=a6d8db9bff412d88a13b6df98f5be4f62ac0b742e15ccf33c1c9bc8aef2b1df8
-
-# Porta do servidor (use process.env.PORT no código)
-PORT=3000
